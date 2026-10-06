@@ -1,2 +1,2 @@
 # CrawfordScriptingProjectP4
-this repository sucks and wont work and the scripts are all invalid because im bad at this :p
+this repo SUCKS!!!! why are you even HERE!!! its a SCHOOL project!!!
