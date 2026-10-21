@@ -30,3 +30,4 @@ public class VariablesAndFunctions : MonoBehaviour
         // 0/10 hack i hate this pls delete
     }
 }
+//wow this sucks so much bro never script again(@thetotallyawesomevoidking)
